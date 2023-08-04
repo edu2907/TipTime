@@ -32,9 +32,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     val tipPercentage = when (binding.tipOptions.checkedRadioButtonId) {
-      R.id.tip_awesome -> 0.20
+      R.id.tip_regular -> 0.15
       R.id.tip_good -> 0.18
-      else -> 0.15
+      else -> 0.20
     }
 
     var tip = tipPercentage * cost
