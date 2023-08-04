@@ -7,4 +7,5 @@
     <string name="label_round_up_switch">Arredondar gorjeta??</string>
     <string name="calculate_button_text">Calcular</string>
     <string name="tip_amount">Preço da Gorjeta: %s</string>
+    <string name="edit_text_hint">Custo do Serviço</string>
 </resources>
